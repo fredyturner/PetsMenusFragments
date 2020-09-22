@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nombre_contacto">33dp</dimen>
+    <dimen name="telefono_contacto">20sp</dimen>
+    <dimen name="top">10dp</dimen>
+    <dimen name="left">10dp</dimen>
+    <dimen name="email">20sp</dimen>
+    <dimen name="card_corner_cardview">4dp</dimen>
+    <dimen name="nombre_cardview">20dp</dimen>
+    <dimen name="elevacion_appbar">4dp</dimen>
+</resources>

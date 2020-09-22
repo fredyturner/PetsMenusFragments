@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="nombre">Fredy Murillo</string>
+    <string name="telefono">3122956454</string>
+    <string name="email">fredy@email.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="menu_contacto">Contactos</string>
+    <string name="menu_acerca_de">Acerca de</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
